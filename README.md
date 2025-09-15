@@ -1,5 +1,7 @@
-# kafka_learning
-learning kafka with real world project.
+# Kafka learning
 
-EDA stands for Event Driven Architecture for microsevices.
+learning Kafka with real world project.
+
+EDA stands for Event Driven Architecture for microservices.
 This EDA is achieved through Kafka.
+
